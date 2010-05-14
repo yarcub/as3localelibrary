@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<ui>
+		<item id="0">Add</item>
+		<item id="1">Remove</item>
+		<item id="2">asset id</item>
+		<item id="3">asset section</item>
+	</ui>
+	<bio>
+		<item id="greeting">Hello World</item>
+		<item id="0">Once upon a time</item>
+	</bio>
+	<contact>
+		<item id="z">Submit</item>
+	</contact>
+</data>

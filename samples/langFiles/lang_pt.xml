@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<ui>
+		<item id="0">Adicionar</item>
+		<item id="1">Remover</item>
+		<item id="2">id no XML</item>
+		<item id="3">nó no XML</item>
+	</ui>
+	<bio>
+		<item id="greeting">Olá mundo</item>
+		<item id="0">Era uma vez</item>
+	</bio>
+	<contact>
+		<item id="z">Submeter</item>
+	</contact>
+</data>
